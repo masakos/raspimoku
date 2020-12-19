@@ -66,7 +66,7 @@ Appleで始まるキーワードはOSで使っているデバイスです。 そ
 
 OS標準のフォーマットツールではうまくフォーマットできない場合があるため [SD Formatter](https://www.sdcard.org/jp/downloads/formatter_4/index.html)というツールを使います。
 
-![](https://cdn.slideship.com/users/DUHKFrn6Fg9E8FuEeoh59u/img/2018/03/PWeAqi5uGRedvJ7FZkSF2s.png =40%x)
+![](card_frm.png)
 
 
 #### 4. アンマウントします
